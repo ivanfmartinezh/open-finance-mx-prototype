@@ -1,0 +1,10 @@
+belvo-python
+python-dotenv
+pydantic>=2
+# --- Dev tools ---
+pytest
+black
+flake8
+isort
+mypy
+pre-commit

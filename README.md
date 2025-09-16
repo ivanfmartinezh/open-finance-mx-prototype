@@ -1,2 +1,2 @@
 # open-finance-mx-prototype
-Este repositorio tiene el propósito de crear prototipos APIs para el desarrollo de Open Finance mx
+This repository aims to create prototype APIs for the development of Open Finance mx.
